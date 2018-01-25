@@ -14,15 +14,17 @@ from googletrans import Translator
 #JANGAN LUPA =>  sudo pip install bs4 => sudo pip install BeautifulSoup => sudo pip install urllib => sudo pip install requests => sudo pip install gTTS
 
 cl = PUY.LINE()
-cl.login(qr=True)
-cl.loginResult()
+cl.login(qr=True
+#cllogin (token=
+cl . loginResult ()
 
 print "\n[PRANK LOGIN SELESAI]"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpmsg ="""╔═════════════
-(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
+「◉⊱ᎢᎬᎪᎷᏴᏞᎪᏟᏦ❂ҒᏀᎪᎷᎬᎡ◉⊱
+』✡️OATBLACKOFGAMER✡️
 ║═════════════
 ╠-> google (text)
 ╠-> playstore (text)
@@ -142,7 +144,7 @@ helptranslate ="""
 KAC=[cl]
 mid = cl.getProfile().mid
 Bots=[mid]
-admin=["uac8e3eaf1eb2a55770bf10c3b2357c33"]
+admin=["ued21891fe7a84536b59276e0388b9e97"]
 
 wait = {
     "likeOn":False,
